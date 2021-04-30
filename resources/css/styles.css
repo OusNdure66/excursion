@@ -21,13 +21,16 @@ h1 {
     color: white;
 }
 
-h2 {
+.media h2 {
     font-size: 21px;
     color: gray;
+    font-weight: lighter;
 }
 
-footer {
+#footer {
+    font-size: 21px;
     text-align: right;
     color: gray;
+    font-weight: lighter;
 }
 
