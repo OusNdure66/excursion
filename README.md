@@ -1,4 +1,4 @@
-# Excursion Project - Codecademy Project
+# Excursion - Codecademy Project
 
 Project Objective as described by Codecademy:
 
